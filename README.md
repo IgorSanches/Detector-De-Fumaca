@@ -1,6 +1,6 @@
 # Detector-De-Fumaca
 Projeto de um detector de fumaça utilizando arduino<br>
-A idéia foi simular um dectector de fumaça que quando entende que há fumaça<br>
+A idéia foi simular um dectector de fumaça que quando entende que há fumaça,<br>
 uma led vermelha se acende e ele emite um som.<br>
 Link do projeto: https://www.tinkercad.com/embed/by9YELjhWfI
 
